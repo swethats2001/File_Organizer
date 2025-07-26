@@ -52,6 +52,3 @@ A simple Python script to automatically organize files in a folder by moving the
 └── 📁 Others
 ```
 ---
-
-Author
-Swetha T S
