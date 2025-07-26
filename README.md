@@ -11,7 +11,7 @@ A simple Python script to automatically organize files in a folder by moving the
 - 🧪 Easy to test, modify, and extend
 - 🗂️ Creates categorized folders if they don't exist
 
----
+
 
 ## 🚀 How It Works
 
@@ -25,7 +25,7 @@ A simple Python script to automatically organize files in a folder by moving the
 4. Subfolders are automatically created if they don't exist.
 5. Files are moved safely using `shutil`.
 
----
+
 
 ## 🧠 File Categories
 
@@ -36,7 +36,7 @@ A simple Python script to automatically organize files in a folder by moving the
 | Videos     | `.mp4`, `.avi`, `.mov`, `.mkv`, `.flv`, `.wmv`, `.mpg`, `.mpeg` |
 | Others     | Anything not listed above |
 
----
+
 
 ## 🛠️ Requirements
 
