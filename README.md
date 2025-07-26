@@ -2,7 +2,7 @@
 
 A simple Python script to automatically organize files in a folder by moving them into categorized subfolders such as **Documents**, **Images**, **Videos**, and **Others** based on file extensions.
 
----
+
 
 ## 📌 Features
 
