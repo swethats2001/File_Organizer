@@ -45,13 +45,5 @@ A simple Python script to automatically organize files in a folder by moving the
 
 ---
 
-## 📂 Folder Structure After Organizing
-
-📁 Target Folder
-├── 📁 Documents
-├── 📁 Images
-├── 📁 Videos
-└── 📁 Others
-
 Author
 Swetha T S
