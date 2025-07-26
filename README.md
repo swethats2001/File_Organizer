@@ -43,6 +43,14 @@ A simple Python script to automatically organize files in a folder by moving the
 - Python 3.x
 - No additional libraries required (uses built-in `os` and `shutil`)
 
+## Folder structure after organizing
+```
+📁 Target Folder/
+├── 📁 Documents
+├── 📁 Images
+├── 📁 Videos
+└── 📁 Others
+```
 ---
 
 Author
